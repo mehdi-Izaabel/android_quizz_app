@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="register">Register</string>
+    <string name="question1">Question 1</string>
+    <string name="Result"> Your Score : </string>
+
+</resources>
